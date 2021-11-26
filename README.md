@@ -1,5 +1,5 @@
 # Panrun
-Forked: https://github.com/mb21/panrun 
+Forked: https://github.com/mb21/panrun  
 Minimal script that runs [pandoc](http://pandoc.org/) with the options it finds in the YAML metadata of the input markdown file. For example:
 
     python panrun.py input.md
