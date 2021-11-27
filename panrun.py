@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import os, yaml, sys, subprocess, json
+import os, yaml, sys, subprocess
 
 # get output_file from sys.argv
 def get_output_file():
