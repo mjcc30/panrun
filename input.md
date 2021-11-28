@@ -24,7 +24,7 @@ output:
     output: test.pdf
     from: markdown
     template: src/templates/eisvogel
-    bibliography: src/bib/citation.bib 
+    bibliography: src/bib/citation.bib
     csl: src/bib/ieee.csl
     citeproc: true
     listings: true
@@ -32,7 +32,7 @@ output:
 
 # Section 1
 
-Haec "subinde" Constantius audiens et quaedam referente @2018_francavilla  Thalassio doctus, quem eum odisse iam conpererat lege communi, scribens ad Caesarem blandius adiumenta paulatim illi subtraxit, sollicitari se simulans ne, uti est militare otium fere tumultuosum @2018_chen, in eius perniciem conspiraret, solisque scholis iussit esse contentum palatinis et protectorum cum Scutariis et Gentilibus, et mandabat Domitiano, ex comite largitionum, praefecto: ut cum in Syriam venerit, Gallum, quem crebro acciverat, ad Italiam properare blande hortaretur et verecunde.
+Haec "subinde" Constantius audiens et quaedam referente @2018_francavilla Thalassio doctus, quem eum odisse iam conpererat lege communi, scribens ad Caesarem blandius adiumenta paulatim illi subtraxit, sollicitari se simulans ne, uti est militare otium fere tumultuosum @2018_chen, in eius perniciem conspiraret, solisque scholis iussit esse contentum palatinis et protectorum cum Scutariis et Gentilibus, et mandabat Domitiano, ex comite largitionum, praefecto: ut cum in Syriam venerit, Gallum, quem crebro acciverat, ad Italiam properare blande hortaretur et verecunde.
 
 # Section 2
 
